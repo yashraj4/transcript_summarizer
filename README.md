@@ -12,7 +12,7 @@ A web application for building and running automated text processing workflows. 
   - **Tag Category**: Automatically classify content.
 - **Run History**: Persistent local storage of your last 5 workflow executions (Client-side only (LocalStorage))
   
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
 - **Styling**: Vanilla CSS (CSS Modules & Variables) - No external UI libraries.
@@ -20,7 +20,7 @@ A web application for building and running automated text processing workflows. 
 - **Persistence**: LocalStorage API.
 - **Deployment**: Dockerized for easy hosting.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
